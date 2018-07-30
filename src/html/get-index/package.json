@@ -1,0 +1,7 @@
+{
+  "name": "cocoon-t8b-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
