@@ -1,10 +1,8 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-test-app
+cocoon-t8b
 
 @html
 get /
+
+@xml
+get /hello
